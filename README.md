@@ -8,12 +8,10 @@
 </div>
 
 
-**Storage Nodes:**
-Unlike Validator Nodes that focus on securing the blockchain itself, Storage Nodes focus on managing and serving data. They are the backbone of the network's data storage capabilities, ensuring persistence and availability for long-term data storage (e.g., training datasets, large AI models). By running a storage node, you'll contribute to the decentralized storage of 0G data, making it accessible and resilient.
 
 <div align="center">
 
-#   **0G Storage Node Guide** 
+#   **OG Storage Node Guide** 
 
 </div>
 
